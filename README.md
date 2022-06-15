@@ -1,7 +1,7 @@
 # Salut ! 👋
 
 **Je m'appelle Alexandre Roussel.** 
-Je suis actuellement étudiant en 2ème année à **l'IUT informatique Montpellier-Sète** et je suis sur le départ pour une année niveau Licence 3 informatique à l'**UQAC** à Saguenay au Canada 🇨🇦.
+Je suis actuellement étudiant en 2ème année à **l'IUT informatique Montpellier-Sète** et je suis sur le départ pour une année à l'**UQAC** à Saguenay au Canada 🇨🇦.
 
 ## Mes compétences
 
@@ -11,5 +11,4 @@ Je suis actuellement étudiant en 2ème année à **l'IUT informatique Montpelli
 ![](https://img.shields.io/badge/PHP-informationals?style=flat&logo=php&color=777BB4&logoColor=FFF)
 ![](https://img.shields.io/badge/Java-informationals?style=flat&logo=java&color=007396&logoColor=FFF)
 ![](https://img.shields.io/badge/C-informationals?style=flat&logo=c&color=9DADBF&logoColor=FFF)
-![](https://img.shields.io/badge/MySQL-informationals?style=flat&logo=mysql&color=4479A1&logoColor=FFF)
-![](https://img.shields.io/badge/Scala-informationals?style=flat&logo=scala&color=DC322F&logoColor=FFF)
+![](https://img.shields.io/badge/python-informationals?style=flat&logo=python&color=3776AB&logoColor=FFF)
