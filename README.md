@@ -1,7 +1,7 @@
 # Salut ! 👋
 
 **Je m'appelle Alexandre Roussel.** 
-Je suis actuellement étudiant en 2ème année à **l'IUT informatique Montpellier-Sète** et je suis sur le départ pour une année à l'**UQAC** à Saguenay au Canada 🇨🇦.
+Je suis actuellement étudiant en DUETI à **l'Université du Québec à Chicoutimi** au Canada 🇨🇦.
 
 ## Mes compétences
 
