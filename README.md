@@ -1,8 +1,8 @@
 # Salut ! 👋
 
 **Je m'appelle Alexandre Roussel.**
-Je suis un étudiant en informatique diplômé d'un DUT informatique obtenu à l'IUT Montpellier-Sète et je suis actuellement à l'Université du Québec à Chicoutimi en DUETI.
-Je me dirigerai, par la suite, vers une école d'ingénieur où j'ai comme projet d'obtenir le titre d'ingénieur dans les domaines du développement Web et mobile.
+Je suis un étudiant en informatique diplômé d'un DUT informatique obtenu à l'IUT Montpellier-Sète et je suis parti un an à l'Université du Québec à Chicoutimi en DUETI.
+Je suis actuellement en école d'ingénieur où j'ai comme projet d'obtenir le titre d'ingénieur dans les domaines du développement Web et mobile.
 
 ## Langages maitrisés
 
@@ -18,9 +18,15 @@ Je me dirigerai, par la suite, vers une école d'ingénieur où j'ai comme proje
 ![](https://img.shields.io/badge/Java-informationals?style=flat&logo=Java&color=007396&logoColor=FFF)
 ![](https://img.shields.io/badge/C-informationals?style=flat&logo=c&color=9DADBF&logoColor=FFF)
 ![](https://img.shields.io/badge/C++-informationals?style=flat&logo=c++&color=00599C&logoColor=FFF)
+![](https://img.shields.io/badge/Swift-informationals?style=flat&logo=swift&color=F05138&logoColor=FFF)
+![](https://img.shields.io/badge/Kotlin-informationals?style=flat&logo=kotlin&color=7F52FF&logoColor=FFF)
 
 ### SCRIPT
 
 ![](https://img.shields.io/badge/python-informationals?style=flat&logo=python&color=3776AB&logoColor=FFF)
 ![](https://img.shields.io/badge/GNOME%20Terminal-informationals?style=flat&logo=GNOME%20Terminal&color=241F31&logoColor=FFF)
 ![](https://img.shields.io/badge/SQL-informationals?style=flat&logo=SQL&color=4479A1&logoColor=FFF)
+
+## Autres
+
+![](https://img.shields.io/badge/Android%20Studio-informationals?style=flat&logo=android%20studio&color=3DDC84&logoColor=FFF)
