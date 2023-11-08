@@ -15,7 +15,7 @@ Je suis actuellement en école d'ingénieur où j'ai comme projet d'obtenir le t
 
 ### LOGICIEL
 
-![](https://img.shields.io/badge/Java-informationals?style=flat&logo=Java&color=007396&logoColor=FFF)
+![](https://img.shields.io/badge/Java-informationals?style=flat&logo=java&color=007396&logoColor=FFF)
 ![](https://img.shields.io/badge/C-informationals?style=flat&logo=c&color=9DADBF&logoColor=FFF)
 ![](https://img.shields.io/badge/C++-informationals?style=flat&logo=c++&color=00599C&logoColor=FFF)
 ![](https://img.shields.io/badge/Swift-informationals?style=flat&logo=swift&color=F05138&logoColor=FFF)
@@ -30,3 +30,12 @@ Je suis actuellement en école d'ingénieur où j'ai comme projet d'obtenir le t
 ## Autres
 
 ![](https://img.shields.io/badge/Android%20Studio-informationals?style=flat&logo=android%20studio&color=3DDC84&logoColor=FFF)
+![](https://img.shields.io/badge/Docker-informationals?style=flat&logo=docker&color=2496ED&logoColor=FFF)
+![](https://img.shields.io/badge/Flask-informationals?style=flat&logo=flask&color=000000&logoColor=FFF)
+![](https://img.shields.io/badge/Font%20awesome-informationals?style=flat&logo=font%20awesome&color=528DD7&logoColor=FFF)
+![](https://img.shields.io/badge/Git-informationals?style=flat&logo=git&color=F05032&logoColor=FFF)
+![](https://img.shields.io/badge/Gunicorn-informationals?style=flat&logo=gunicorn&color=499848&logoColor=FFF)
+![](https://img.shields.io/badge/Linux-informationals?style=flat&logo=linux&color=FCC624&logoColor=FFF)
+![](https://img.shields.io/badge/Markdown-informationals?style=flat&logo=markdown&color=000000&logoColor=FFF)
+![](https://img.shields.io/badge/RaspberryPi-informationals?style=flat&logo=raspberrypi&color=A22846&logoColor=FFF)
+![](https://img.shields.io/badge/Sass-informationals?style=flat&logo=sass&color=CC6699&logoColor=FFF)
