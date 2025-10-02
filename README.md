@@ -19,6 +19,3 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Roussel48&layout=compact)
-
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-roussel-8718b3193/)
